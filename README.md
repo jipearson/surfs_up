@@ -13,7 +13,7 @@
 #### June temperature statistical summary.
 ![](images/june_stats.PNG) 
 #### December temperature statistical summary.
-![](images/dec_stats.PNG) 
+![](images/dec_stats.PNG) <br>
 Based on the statistical summary results from June and December (shown above) we conclude the following;
 - There is little change in average temperature between June and December. The average temperature for June is 74.9 and there is only a slight decrease in average temperature to 71.0 for the month of December. 
 - There are a meaningful number of temperature observations for our analysis, 1,700 and 1,517 for June and December respectively, giving us confidence in our results. 
@@ -21,5 +21,6 @@ Based on the statistical summary results from June and December (shown above) we
 	- 75% of observed temperatures at or above 69 degrees in December.
 	- The minimum temperature was likely a nighttime temperature where the Surf n' Shake would not be open for business. 
 
+## Summary
 
 
