@@ -1,5 +1,5 @@
 # surfs_up
-![](images/surfnshake.PNG) 
+![](images/surfnshake.png) 
 ## Overview of Project
 - While on Vacation in Hawaii last year I found a new passion for surfing. I have come up with a plan to open a Surf n' Shake shop that will allow me to move there. After engaging a potential investor, surfer W. Avy, he has one concern; the weather. In order to solidify his investment, W. Avy wants us to run some analytics on a weather dataset he has from the beautiful island of Oahu. Through our analysis we provide Mr. Avy with an abundance of information (highlighted below).
   - Precipitation summary statistics.
