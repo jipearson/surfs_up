@@ -22,5 +22,13 @@ Based on the statistical summary results from June and December (shown above) we
 	- The minimum temperature was likely a nighttime temperature where the Surf n' Shake would not be open for business. 
 
 ## Summary
+- Oahu is temperate and there are minimal changes in average temperature throuhout the year. 
+- There is a substantial amount of data which gives us confidence in our results. 
+- The vast majority of days, even in a colder month, are above the surfing and eating ice cream line. 
+
+#### Additional queries that would help stengthen our analysis 
+1. Calculate the summary statistics for precipitation by month.
+2. Analize the impact of altitude on temperature and precipitation, our Surf n' Shake will most likely be near sea level.
+3. If possible we would want to analyze the temperatures during our likely hours of operation.
 
 
